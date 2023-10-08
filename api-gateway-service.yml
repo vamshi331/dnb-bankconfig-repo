@@ -36,5 +36,5 @@ eureka:
     lease-renewal-interval-in-seconds: 30
 jwt:
   secret: mySecretKey
-  expireMs: 1800000
-  refrEshexpireMs: 1800000
+  expireMs: 1300000
+  refrEshexpireMs: 1300000

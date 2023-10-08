@@ -2,7 +2,7 @@ spring:
   datasource:
     username: root
     password: root
-    url: jdbc:mysql://localhost:3306/loanservicedb?createDatabaseIfNotExist=true
+    url: jdbc:mysql://localhost:3306/loandb?createDatabaseIfNotExist=true
   jpa:
     hibernate:
       ddl-auto: update
